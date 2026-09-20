@@ -36,11 +36,11 @@ Ajudar os moradores a entender o próprio consumo de água e incentivar o uso co
 1. Instale o [Python](https://www.python.org/downloads/) no computador.
 2. Clone este repositório:
 ```bash
-   git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
+   git clone https://github.com/thiagosantista1989-dev/consumo_agua.git
 ```
 3. Entre na pasta do projeto:
 ```bash
-   cd NOME_DO_REPOSITORIO/consumo-agua
+   cd consumo_agua/consumo_agua
 ```
 4. Execute o programa:
 ```bash
@@ -71,9 +71,10 @@ Consumo econômico – excelente controle de água!
 ## 📁 Estrutura do projeto
 
 ```
-consumo-agua/
-├── app.py
-└── README.md
+consumo_agua/
+├── README.md
+└── consumo_agua/
+    └── app.py
 ```
 
 ## 👨‍💻 Autor
